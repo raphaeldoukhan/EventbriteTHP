@@ -64,6 +64,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'faker', '~> 1.4', '>= 1.4.3'
 gem 'table_print', '~> 1.5', '>= 1.5.6'
 gem 'devise', '~> 4.2'
-gem 'bootstrap', '~> 4.3', '>= 4.3.1'
-gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+
+gem 'bootstrap'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'

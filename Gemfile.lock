@@ -227,8 +227,8 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
-  bootstrap (~> 4.3, >= 4.3.1)
-  bootstrap-sass (~> 3.4, >= 3.4.1)
+  bootstrap
+  bootstrap-sass (~> 3.4.1)
   byebug
   capybara (>= 2.15)
   chromedriver-helper
